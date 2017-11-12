@@ -1,0 +1,31 @@
+	
+
+<?php
+    // Process HTTP POST variables
+    $session_id     = $_POST["session_id"];
+    $service_code   = $_POST["service_code"];
+    $mobile_number  = $_POST["mobile_number"];
+    $message        = $_POST["message"];
+
+    if ($message == "") 
+    {    
+       	$response = "CON What would you like to do? \n"; // Start first request with CON
+        $response .= "1. Account Number \n"
+        $response .= "2. My Balance";
+    } 
+    else if ($message == "1") 
+    {
+        $account_number = "MYBANK00000001"; // Your code, do something cool       
+        $response = "END Your account number is $account_number"; // Start terminal request with END
+    } 
+    else if ($message == "2") 
+    {
+        $account_balance = "KES 15,000"; // Your code, do something cool
+        $response = "END Your balance is " . $account_balance;  // Start terminal request with END
+    }
+
+    // Print response in plain text to enable our server to send it to the phone
+    header('Content-type: text/plain');
+    echo $response;
+?>
+

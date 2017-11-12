@@ -1,0 +1,169 @@
+2016-09-27 14:04:35 - [ CUSTOM ] /emulator/index.php:  | connect_DB | Access denied for user ''@'localhost' (using password: NO) on | 
+2016-09-27 14:04:35 - [ CUSTOM ] /emulator/index.php:  | select_DB | Access denied for user ''@'localhost' (using password: NO) on | 
+2016-09-27 14:04:35 - [ CUSTOM ] /emulator/index.php:  | selectSQL |  on | select * from networks
+2016-09-27 14:04:36 - [ CUSTOM ] /emulator/createSession.php:  | connect_DB | Access denied for user ''@'localhost' (using password: NO) on | 
+2016-09-27 14:04:36 - [ CUSTOM ] /emulator/createSession.php:  | select_DB | Access denied for user ''@'localhost' (using password: NO) on | 
+2016-09-27 14:04:36 - [ CUSTOM ] /emulator/createSession.php:  | selectSQL |  on | select * from networks
+2016-09-27 14:04:59 - [ CUSTOM ] /emulator/createSession.php:  | connect_DB | Access denied for user ''@'localhost' (using password: NO) on | 
+2016-09-27 14:04:59 - [ CUSTOM ] /emulator/createSession.php:  | select_DB | Access denied for user ''@'localhost' (using password: NO) on | 
+2016-09-27 14:04:59 - [ CUSTOM ] /emulator/createSession.php:  | selectSQL |  on | select * from networks
+2016-09-27 14:04:59 - [ CUSTOM ] /emulator/createSession.php:  | connect_DB | Access denied for user ''@'localhost' (using password: NO) on | 
+2016-09-27 14:04:59 - [ CUSTOM ] /emulator/createSession.php:  | select_DB | Access denied for user ''@'localhost' (using password: NO) on | 
+2016-09-27 14:04:59 - [ CUSTOM ] /emulator/createSession.php:  | selectSQL |  on | select * from profiles where MSISDN = '0720844418'
+2016-09-27 14:04:59 - [ CUSTOM ] /emulator/createSession.php:  | connect_DB | Access denied for user ''@'localhost' (using password: NO) on | 
+2016-09-27 14:04:59 - [ CUSTOM ] /emulator/createSession.php:  | select_DB | Access denied for user ''@'localhost' (using password: NO) on | 
+2016-09-27 14:04:59 - [ CUSTOM ] /emulator/createSession.php:  | selectSQL |  on | select * from networks
+2016-09-27 14:04:59 - [ CUSTOM ] /emulator/createSession.php:  | connect_DB | Access denied for user ''@'localhost' (using password: NO) on | 
+2016-09-27 14:04:59 - [ CUSTOM ] /emulator/createSession.php:  | select_DB | Access denied for user ''@'localhost' (using password: NO) on | 
+2016-09-27 14:04:59 - [ CUSTOM ] /emulator/createSession.php:  | connect_DB | Access denied for user ''@'localhost' (using password: NO) on | 
+2016-09-27 14:04:59 - [ CUSTOM ] /emulator/createSession.php:  | select_DB | Access denied for user ''@'localhost' (using password: NO) on | 
+2016-09-27 14:04:59 - [ CUSTOM ] /emulator/createSession.php:  | connect_DB | Access denied for user ''@'localhost' (using password: NO) on | 
+2016-09-27 14:04:59 - [ CUSTOM ] /emulator/createSession.php:  | select_DB | Access denied for user ''@'localhost' (using password: NO) on | 
+2016-09-27 14:04:59 - [ CUSTOM ] /emulator/createSession.php:  | insertSQL |  on | insert into profiles (MSISDN, password, names, network_id, profileStatus, dateCreated) values
+			('0720844418', NULL, 'new profile', NULL, 1, now())
+2016-09-27 14:10:43 - [ CUSTOM ] /emulator/createSession.php:  | connect_DB | Access denied for user ''@'localhost' (using password: NO) on | 
+2016-09-27 14:10:43 - [ CUSTOM ] /emulator/createSession.php:  | select_DB | Access denied for user ''@'localhost' (using password: NO) on | 
+2016-09-27 14:10:43 - [ CUSTOM ] /emulator/createSession.php:  | selectSQL |  on | select * from networks
+2016-09-27 14:10:43 - [ CUSTOM ] /emulator/createSession.php:  | connect_DB | Access denied for user ''@'localhost' (using password: NO) on | 
+2016-09-27 14:10:43 - [ CUSTOM ] /emulator/createSession.php:  | select_DB | Access denied for user ''@'localhost' (using password: NO) on | 
+2016-09-27 14:10:43 - [ CUSTOM ] /emulator/createSession.php:  | selectSQL |  on | select * from profiles where MSISDN = '0720844418'
+2016-09-27 14:10:43 - [ CUSTOM ] /emulator/createSession.php:  | connect_DB | Access denied for user ''@'localhost' (using password: NO) on | 
+2016-09-27 14:10:43 - [ CUSTOM ] /emulator/createSession.php:  | select_DB | Access denied for user ''@'localhost' (using password: NO) on | 
+2016-09-27 14:10:43 - [ CUSTOM ] /emulator/createSession.php:  | selectSQL |  on | select * from networks
+2016-09-27 14:10:43 - [ CUSTOM ] /emulator/createSession.php:  | connect_DB | Access denied for user ''@'localhost' (using password: NO) on | 
+2016-09-27 14:10:43 - [ CUSTOM ] /emulator/createSession.php:  | select_DB | Access denied for user ''@'localhost' (using password: NO) on | 
+2016-09-27 14:10:43 - [ CUSTOM ] /emulator/createSession.php:  | connect_DB | Access denied for user ''@'localhost' (using password: NO) on | 
+2016-09-27 14:10:43 - [ CUSTOM ] /emulator/createSession.php:  | select_DB | Access denied for user ''@'localhost' (using password: NO) on | 
+2016-09-27 14:10:43 - [ CUSTOM ] /emulator/createSession.php:  | connect_DB | Access denied for user ''@'localhost' (using password: NO) on | 
+2016-09-27 14:10:43 - [ CUSTOM ] /emulator/createSession.php:  | select_DB | Access denied for user ''@'localhost' (using password: NO) on | 
+2016-09-27 14:10:43 - [ CUSTOM ] /emulator/createSession.php:  | insertSQL |  on | insert into profiles (MSISDN, password, names, network_id, profileStatus, dateCreated) values
+			('0720844418', NULL, 'new profile', NULL, 1, now())
+2016-09-27 14:11:06 - [ CUSTOM ] /emulator/createSession.php:  | connect_DB | Access denied for user ''@'localhost' (using password: NO) on | 
+2016-09-27 14:11:06 - [ CUSTOM ] /emulator/createSession.php:  | select_DB | Access denied for user ''@'localhost' (using password: NO) on | 
+2016-09-27 14:11:06 - [ CUSTOM ] /emulator/createSession.php:  | selectSQL |  on | select * from networks
+2016-09-27 14:11:10 - [ CUSTOM ] /emulator/index.php:  | connect_DB | Access denied for user ''@'localhost' (using password: NO) on | 
+2016-09-27 14:11:10 - [ CUSTOM ] /emulator/index.php:  | select_DB | Access denied for user ''@'localhost' (using password: NO) on | 
+2016-09-27 14:11:10 - [ CUSTOM ] /emulator/index.php:  | selectSQL |  on | select * from networks
+2016-09-27 14:11:11 - [ CUSTOM ] /emulator/createSession.php:  | connect_DB | Access denied for user ''@'localhost' (using password: NO) on | 
+2016-09-27 14:11:11 - [ CUSTOM ] /emulator/createSession.php:  | select_DB | Access denied for user ''@'localhost' (using password: NO) on | 
+2016-09-27 14:11:11 - [ CUSTOM ] /emulator/createSession.php:  | selectSQL |  on | select * from networks
+2016-09-27 14:11:19 - [ CUSTOM ] /emulator/createSession.php:  | connect_DB | Access denied for user ''@'localhost' (using password: NO) on | 
+2016-09-27 14:11:19 - [ CUSTOM ] /emulator/createSession.php:  | select_DB | Access denied for user ''@'localhost' (using password: NO) on | 
+2016-09-27 14:11:19 - [ CUSTOM ] /emulator/createSession.php:  | selectSQL |  on | select * from networks
+2016-09-27 14:11:19 - [ CUSTOM ] /emulator/createSession.php:  | connect_DB | Access denied for user ''@'localhost' (using password: NO) on | 
+2016-09-27 14:11:19 - [ CUSTOM ] /emulator/createSession.php:  | select_DB | Access denied for user ''@'localhost' (using password: NO) on | 
+2016-09-27 14:11:19 - [ CUSTOM ] /emulator/createSession.php:  | selectSQL |  on | select * from profiles where MSISDN = '0720844418'
+2016-09-27 14:11:19 - [ CUSTOM ] /emulator/createSession.php:  | connect_DB | Access denied for user ''@'localhost' (using password: NO) on | 
+2016-09-27 14:11:19 - [ CUSTOM ] /emulator/createSession.php:  | select_DB | Access denied for user ''@'localhost' (using password: NO) on | 
+2016-09-27 14:11:19 - [ CUSTOM ] /emulator/createSession.php:  | selectSQL |  on | select * from networks
+2016-09-27 14:11:19 - [ CUSTOM ] /emulator/createSession.php:  | connect_DB | Access denied for user ''@'localhost' (using password: NO) on | 
+2016-09-27 14:11:19 - [ CUSTOM ] /emulator/createSession.php:  | select_DB | Access denied for user ''@'localhost' (using password: NO) on | 
+2016-09-27 14:11:20 - [ CUSTOM ] /emulator/createSession.php:  | connect_DB | Access denied for user ''@'localhost' (using password: NO) on | 
+2016-09-27 14:11:20 - [ CUSTOM ] /emulator/createSession.php:  | select_DB | Access denied for user ''@'localhost' (using password: NO) on | 
+2016-09-27 14:11:20 - [ CUSTOM ] /emulator/createSession.php:  | connect_DB | Access denied for user ''@'localhost' (using password: NO) on | 
+2016-09-27 14:11:20 - [ CUSTOM ] /emulator/createSession.php:  | select_DB | Access denied for user ''@'localhost' (using password: NO) on | 
+2016-09-27 14:11:20 - [ CUSTOM ] /emulator/createSession.php:  | insertSQL |  on | insert into profiles (MSISDN, password, names, network_id, profileStatus, dateCreated) values
+			('0720844418', NULL, 'new profile', NULL, 1, now())
+2016-09-27 14:12:42 - [ CUSTOM ] /emulator/createSession.php:  | insertSQL | Column 'network_id' cannot be null on | insert into profiles (MSISDN, password, names, network_id, profileStatus, dateCreated) values
+			('0720844418', '1234', 'new profile', NULL, 1, now())
+2016-09-27 14:19:07 - [ CUSTOM ] /emulator/index.php:  | selectSQL |  on | select * from networks
+2016-09-27 14:19:07 - [ CUSTOM ] /emulator/index.php:  | selectSQL |  on | select * from networks
+2016-09-27 14:19:07 - [ CUSTOM ] /emulator/index.php:  | selectSQL |  on | select * from networks
+2016-09-27 14:23:54 - [ CUSTOM ] /emulator/index.php:  | selectSQL |  on | select * from networks
+2016-09-27 14:23:57 - [ CUSTOM ] /emulator/index.php:  | selectSQL |  on | select * from networks
+2016-09-27 21:35:59 - [ CUSTOM ] /emulator/index.php:  | selectSQL |  on | select * from networks
+2016-09-27 21:36:00 - [ CUSTOM ] /emulator/index.php:  | selectSQL |  on | select * from networks
+2016-09-27 21:36:00 - [ CUSTOM ] /emulator/index.php:  | selectSQL |  on | select * from networks
+2016-09-27 22:06:11 - [ CUSTOM ] /emulator/index.php:  | selectSQL |  on | select * from networks
+2016-09-27 22:06:11 - [ CUSTOM ] /emulator/index.php:  | selectSQL |  on | select * from networks
+2016-09-27 22:06:11 - [ CUSTOM ] /emulator/index.php:  | selectSQL |  on | select * from networks
+2016-09-27 22:14:34 - [ CUSTOM ] /emulator/index.php:  | updateSQL |  on | INSERT INTO call_logs (profile_id, dialNumber, numberOfDials, dateCreated) VALUES (NULL, NULL, 1, now())
+		ON DUPLICATE KEY UPDATE numberOfDials=numberOfDials+1
+2016-09-27 22:18:05 - [ CUSTOM ] /emulator/index.php:  | updateSQL |  on | INSERT INTO call_logs (profile_id, dialNumber, numberOfDials, dateCreated) VALUES (NULL, NULL, 1, now())
+		ON DUPLICATE KEY UPDATE numberOfDials=numberOfDials+1
+2016-09-27 22:18:55 - [ CUSTOM ] /emulator/index.php:  | updateSQL |  on | INSERT INTO call_logs (profile_id, dialNumber, numberOfDials, dateCreated) VALUES ('0', '*522#', 1, now())
+		ON DUPLICATE KEY UPDATE numberOfDials=numberOfDials+1
+2016-09-27 22:36:56 - [ CUSTOM ] /emulator/createSession.php:  | insertSQL |  on | insert into profiles (MSISDN, password, names, network_id, profileStatus, dateCreated) values
+			('0720844418', '1234', 'new profile', NULL, 1, now())
+2016-09-27 22:37:22 - [ CUSTOM ] /emulator/createSession.php:  | insertSQL |  on | insert into profiles (MSISDN, password, names, network_id, profileStatus, dateCreated) values
+			('254720844418', '1234', 'new profile', NULL, 1, now())
+2016-09-27 22:38:04 - [ CUSTOM ] /emulator/createSession.php:  | insertSQL |  on | insert into profiles (MSISDN, password, names, network_id, profileStatus, dateCreated) values
+			('254722665319', '12123', 'new profile', NULL, 1, now())
+2016-09-27 23:29:23 - [ CUSTOM ] /emulator/createSession.php:  | insertSQL |  on | insert into profiles (MSISDN, password, names, network_id, profileStatus, dateCreated) values
+			('0720844418', '1234', 'new profile', '1', 1, now())
+2016-09-27 23:41:07 - [ CUSTOM ] /emulator/createSession.php:  | insertSQL |  on | insert into profiles (MSISDN, password, names, network_id, profileStatus, dateCreated) values
+			('0720844418', '1234', 'new profile', '1', 1, now())
+2016-10-08 16:56:24 - [ CUSTOM ] /emulator/createSession.php:  | insertSQL |  on | insert into profiles (MSISDN, password, names, network_id, profileStatus, dateCreated) values
+			('0720844418', '1234', 'new profile', '1', 1, now())
+2016-10-10 10:26:39 - [ CUSTOM ] /emulator/createSession.php:  | insertSQL |  on | insert into profiles (MSISDN, password, names, network_id, profileStatus, dateCreated) values
+			('0721665125', '1', 'new profile', '1', 1, now())
+2016-10-10 10:27:00 - [ CUSTOM ] /emulator/createSession.php:  | insertSQL |  on | insert into profiles (MSISDN, password, names, network_id, profileStatus, dateCreated) values
+			('254721665125', '1111', 'new profile', '1', 1, now())
+2016-10-10 10:48:12 - [ CUSTOM ] /emulator/createSession.php:  | insertSQL |  on | insert into profiles (MSISDN, password, names, network_id, profileStatus, dateCreated) values
+			('0721665125', '1234', 'new profile', '1', 1, now())
+2016-11-06 14:02:06 - [ CUSTOM ] /emulator/createSession.php:  | insertSQL |  on | insert into profiles (MSISDN, password, names, network_id, profileStatus, dateCreated) values
+			('0720401532', '1234', 'new profile', '1', 1, now())
+2016-11-06 14:26:18 - [ CUSTOM ] /emulator/createSession.php:  | insertSQL |  on | insert into profiles (MSISDN, password, names, network_id, profileStatus, dateCreated) values
+			('0720401532', '1234', 'new profile', NULL, 1, now())
+2016-11-06 14:38:39 - [ CUSTOM ] /emulator/createSession.php:  | insertSQL |  on | insert into profiles (MSISDN, password, names, network_id, profileStatus, dateCreated) values
+			('0720401532', '1234', 'new profile', '1', 1, now())
+2016-11-06 15:19:30 - [ CUSTOM ] /emulator/createSession.php:  | insertSQL |  on | insert into profiles (MSISDN, password, names, network_id, profileStatus, dateCreated) values
+			('0720401532', '1234', 'new profile', '1', 1, now())
+2016-11-06 15:31:55 - [ CUSTOM ] /emulator/createSession.php:  | insertSQL |  on | insert into profiles (MSISDN, password, names, network_id, profileStatus, dateCreated) values
+			('0720401532', '1234', 'new profile', '1', 1, now())
+2016-11-06 15:34:02 - [ CUSTOM ] /emulator/createSession.php:  | insertSQL |  on | insert into profiles (MSISDN, password, names, network_id, profileStatus, dateCreated) values
+			('0720401532', '1234', 'new profile', '1', 1, now())
+2016-11-06 15:35:45 - [ CUSTOM ] /emulator/createSession.php:  | insertSQL |  on | insert into profiles (MSISDN, password, names, network_id, profileStatus, dateCreated) values
+			('0720401532', '1234', 'new profile', '1', 1, now())
+2016-11-06 15:37:35 - [ CUSTOM ] /emulator/createSession.php:  | insertSQL |  on | insert into profiles (MSISDN, password, names, network_id, profileStatus, dateCreated) values
+			('0720401532', '1234', 'new profile', 'Default', 1, now())
+2016-11-06 15:38:16 - [ CUSTOM ] /emulator/createSession.php:  | insertSQL |  on | insert into profiles (MSISDN, password, names, network_id, profileStatus, dateCreated) values
+			('0720401532', '1234', 'new profile', '1', 1, now())
+2016-11-06 15:39:50 - [ CUSTOM ] /emulator/createSession.php:  | insertSQL |  on | insert into profiles (MSISDN, password, names, network_id, profileStatus, dateCreated) values
+			('0720401532', '1234', 'new profile', '1', 1, now())
+2016-11-06 15:44:11 - [ CUSTOM ] /emulator/createSession.php:  | insertSQL |  on | insert into profiles (MSISDN, password, names, network_id, profileStatus, dateCreated) values
+			('0720401532', '1234', 'new profile', '1', 1, now())
+2016-11-06 15:46:12 - [ CUSTOM ] /emulator/createSession.php:  | insertSQL |  on | insert into profiles (MSISDN, password, names, network_id, profileStatus, dateCreated) values
+			('0720401532', '1234', 'new profile', '1', 1, now())
+2016-11-06 15:47:31 - [ CUSTOM ] /emulator/createSession.php:  | insertSQL |  on | insert into profiles (MSISDN, password, names, network_id, profileStatus, dateCreated) values
+			('0720401532', '1234', 'new profile', '1', 1, now())
+2016-11-06 16:01:50 - [ CUSTOM ] /emulator/createSession.php:  | insertSQL |  on | insert into profiles (MSISDN, password, names, network_id, profileStatus, dateCreated) values
+			('0720401532', '1234', 'new profile', '1', 1, now())
+2016-11-06 16:02:34 - [ CUSTOM ] /emulator/createSession.php:  | insertSQL |  on | insert into profiles (MSISDN, password, names, network_id, profileStatus, dateCreated) values
+			('0720401532', '1234', 'new profile', '1', 1, now())
+2016-11-06 16:05:04 - [ CUSTOM ] /emulator/createSession.php:  | insertSQL |  on | insert into profiles (MSISDN, password, names, network_id, profileStatus, dateCreated) values
+			('0720401532', '1234', 'new profile', '1', 1, now())
+2016-11-06 16:05:56 - [ CUSTOM ] /emulator/createSession.php:  | insertSQL |  on | insert into profiles (MSISDN, password, names, network_id, profileStatus, dateCreated) values
+			('0720401532', '1234', 'new profile', '1', 1, now())
+2016-11-06 16:06:21 - [ CUSTOM ] /emulator/createSession.php:  | insertSQL |  on | insert into profiles (MSISDN, password, names, network_id, profileStatus, dateCreated) values
+			('0720401532', NULL, 'new profile', 'Default', 1, now())
+2016-11-06 16:06:50 - [ CUSTOM ] /emulator/createSession.php:  | insertSQL |  on | insert into profiles (MSISDN, password, names, network_id, profileStatus, dateCreated) values
+			('0720401532', '1234', 'new profile', '1', 1, now())
+2016-11-06 16:08:34 - [ CUSTOM ] /emulator/createSession.php:  | insertSQL |  on | insert into profiles (MSISDN, password, names, network_id, profileStatus, dateCreated) values
+			('1', NULL, 'new profile', 'Default', 1, now())
+2016-11-06 16:08:42 - [ CUSTOM ] /emulator/createSession.php:  | insertSQL |  on | insert into profiles (MSISDN, password, names, network_id, profileStatus, dateCreated) values
+			('1', '1234', 'new profile', 'Default', 1, now())
+2016-11-06 16:08:59 - [ CUSTOM ] /emulator/createSession.php:  | insertSQL |  on | insert into profiles (MSISDN, password, names, network_id, profileStatus, dateCreated) values
+			('1', NULL, 'new profile', 'Default', 1, now())
+2016-11-06 16:09:38 - [ CUSTOM ] /emulator/createSession.php:  | insertSQL |  on | insert into profiles (MSISDN, password, names, network_id, profileStatus, dateCreated) values
+			('1', NULL, 'new profile', 'Default', 1, now())
+2016-11-06 16:09:45 - [ CUSTOM ] /emulator/createSession.php:  | insertSQL |  on | insert into profiles (MSISDN, password, names, network_id, profileStatus, dateCreated) values
+			('1', '1234', 'new profile', 'Default', 1, now())
+2016-11-06 16:10:51 - [ CUSTOM ] /emulator/createSession.php:  | insertSQL |  on | insert into profiles (MSISDN, password, names, network_id, profileStatus, dateCreated) values
+			('1', NULL, 'new profile', 'Default', 1, now())
+2016-11-06 16:11:38 - [ CUSTOM ] /emulator/createSession.php:  | insertSQL |  on | insert into profiles (MSISDN, password, names, network_id, profileStatus, dateCreated) values
+			('', NULL, 'new profile', 'Default', 1, now())
+2016-11-06 16:11:41 - [ CUSTOM ] /emulator/createSession.php:  | insertSQL |  on | insert into profiles (MSISDN, password, names, network_id, profileStatus, dateCreated) values
+			('', NULL, 'new profile', 'Default', 1, now())
+2016-11-06 16:12:13 - [ CUSTOM ] /emulator/createSession.php:  | insertSQL |  on | insert into profiles (MSISDN, password, names, network_id, profileStatus, dateCreated) values
+			('', NULL, 'new profile', 'Default', 1, now())
+2016-11-06 16:12:16 - [ CUSTOM ] /emulator/createSession.php:  | insertSQL |  on | insert into profiles (MSISDN, password, names, network_id, profileStatus, dateCreated) values
+			('', NULL, 'new profile', 'Default', 1, now())
+2016-11-06 16:13:00 - [ CUSTOM ] /emulator/createSession.php:  | insertSQL |  on | insert into profiles (MSISDN, password, names, network_id, profileStatus, dateCreated) values
+			('', '1234', 'new profile', '1', 1, now())
+2016-11-06 16:13:38 - [ CUSTOM ] /emulator/createSession.php:  | insertSQL |  on | insert into profiles (MSISDN, password, names, network_id, profileStatus, dateCreated) values
+			('0720401532', '1234', 'new profile', '1', 1, now())
+2016-11-06 16:19:21 - [ CUSTOM ] /emulator/createSession.php:  | insertSQL |  on | insert into profiles (MSISDN, password, names, network_id, profileStatus, dateCreated) values
+			('0720401532', '1234', 'new profile', '1', 1, now())
+2016-11-06 16:20:06 - [ CUSTOM ] /emulator/createSession.php:  | insertSQL |  on | insert into profiles (MSISDN, password, names, network_id, profileStatus, dateCreated) values
+			('0720401532', '1234', 'new profile', '1', 1, now())

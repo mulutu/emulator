@@ -1,0 +1,98 @@
+insert into profiles (MSISDN, password, names, network_id, profileStatus, dateCreated) values
+			('0720844418', NULL, 'new profile', NULL, 1, now()) /* 2016-09-27 14:04:59 | /emulator/createSession.php */
+insert into profiles (MSISDN, password, names, network_id, profileStatus, dateCreated) values
+			('0720844418', NULL, 'new profile', NULL, 1, now()) /* 2016-09-27 14:10:43 | /emulator/createSession.php */
+insert into profiles (MSISDN, password, names, network_id, profileStatus, dateCreated) values
+			('0720844418', NULL, 'new profile', NULL, 1, now()) /* 2016-09-27 14:11:20 | /emulator/createSession.php */
+insert into profiles (MSISDN, password, names, network_id, profileStatus, dateCreated) values
+			('0720844418', '1234', 'new profile', NULL, 1, now()) /* 2016-09-27 14:12:42 | /emulator/createSession.php */
+INSERT INTO call_logs (profile_id, dialNumber, numberOfDials, dateCreated) VALUES (NULL, NULL, 1, now())
+		ON DUPLICATE KEY UPDATE numberOfDials=numberOfDials+1 /* 2016-09-27 22:14:34 | /emulator/index.php */
+INSERT INTO call_logs (profile_id, dialNumber, numberOfDials, dateCreated) VALUES (NULL, NULL, 1, now())
+		ON DUPLICATE KEY UPDATE numberOfDials=numberOfDials+1 /* 2016-09-27 22:18:05 | /emulator/index.php */
+INSERT INTO call_logs (profile_id, dialNumber, numberOfDials, dateCreated) VALUES ('0', '*522#', 1, now())
+		ON DUPLICATE KEY UPDATE numberOfDials=numberOfDials+1 /* 2016-09-27 22:18:55 | /emulator/index.php */
+insert into profiles (MSISDN, password, names, network_id, profileStatus, dateCreated) values
+			('0720844418', '1234', 'new profile', NULL, 1, now()) /* 2016-09-27 22:36:56 | /emulator/createSession.php */
+insert into profiles (MSISDN, password, names, network_id, profileStatus, dateCreated) values
+			('254720844418', '1234', 'new profile', NULL, 1, now()) /* 2016-09-27 22:37:22 | /emulator/createSession.php */
+insert into profiles (MSISDN, password, names, network_id, profileStatus, dateCreated) values
+			('254722665319', '12123', 'new profile', NULL, 1, now()) /* 2016-09-27 22:38:04 | /emulator/createSession.php */
+insert into profiles (MSISDN, password, names, network_id, profileStatus, dateCreated) values
+			('0720844418', '1234', 'new profile', '1', 1, now()) /* 2016-09-27 23:29:23 | /emulator/createSession.php */
+insert into profiles (MSISDN, password, names, network_id, profileStatus, dateCreated) values
+			('0720844418', '1234', 'new profile', '1', 1, now()) /* 2016-09-27 23:41:07 | /emulator/createSession.php */
+insert into profiles (MSISDN, password, names, network_id, profileStatus, dateCreated) values
+			('0720844418', '1234', 'new profile', '1', 1, now()) /* 2016-10-08 16:56:24 | /emulator/createSession.php */
+insert into profiles (MSISDN, password, names, network_id, profileStatus, dateCreated) values
+			('0721665125', '1', 'new profile', '1', 1, now()) /* 2016-10-10 10:26:39 | /emulator/createSession.php */
+insert into profiles (MSISDN, password, names, network_id, profileStatus, dateCreated) values
+			('254721665125', '1111', 'new profile', '1', 1, now()) /* 2016-10-10 10:27:00 | /emulator/createSession.php */
+insert into profiles (MSISDN, password, names, network_id, profileStatus, dateCreated) values
+			('0721665125', '1234', 'new profile', '1', 1, now()) /* 2016-10-10 10:48:12 | /emulator/createSession.php */
+insert into profiles (MSISDN, password, names, network_id, profileStatus, dateCreated) values
+			('0720401532', '1234', 'new profile', '1', 1, now()) /* 2016-11-06 14:02:06 | /emulator/createSession.php */
+insert into profiles (MSISDN, password, names, network_id, profileStatus, dateCreated) values
+			('0720401532', '1234', 'new profile', NULL, 1, now()) /* 2016-11-06 14:26:18 | /emulator/createSession.php */
+insert into profiles (MSISDN, password, names, network_id, profileStatus, dateCreated) values
+			('0720401532', '1234', 'new profile', '1', 1, now()) /* 2016-11-06 14:38:39 | /emulator/createSession.php */
+insert into profiles (MSISDN, password, names, network_id, profileStatus, dateCreated) values
+			('0720401532', '1234', 'new profile', '1', 1, now()) /* 2016-11-06 15:19:30 | /emulator/createSession.php */
+insert into profiles (MSISDN, password, names, network_id, profileStatus, dateCreated) values
+			('0720401532', '1234', 'new profile', '1', 1, now()) /* 2016-11-06 15:31:55 | /emulator/createSession.php */
+insert into profiles (MSISDN, password, names, network_id, profileStatus, dateCreated) values
+			('0720401532', '1234', 'new profile', '1', 1, now()) /* 2016-11-06 15:34:02 | /emulator/createSession.php */
+insert into profiles (MSISDN, password, names, network_id, profileStatus, dateCreated) values
+			('0720401532', '1234', 'new profile', '1', 1, now()) /* 2016-11-06 15:35:45 | /emulator/createSession.php */
+insert into profiles (MSISDN, password, names, network_id, profileStatus, dateCreated) values
+			('0720401532', '1234', 'new profile', 'Default', 1, now()) /* 2016-11-06 15:37:35 | /emulator/createSession.php */
+insert into profiles (MSISDN, password, names, network_id, profileStatus, dateCreated) values
+			('0720401532', '1234', 'new profile', '1', 1, now()) /* 2016-11-06 15:38:16 | /emulator/createSession.php */
+insert into profiles (MSISDN, password, names, network_id, profileStatus, dateCreated) values
+			('0720401532', '1234', 'new profile', '1', 1, now()) /* 2016-11-06 15:39:50 | /emulator/createSession.php */
+insert into profiles (MSISDN, password, names, network_id, profileStatus, dateCreated) values
+			('0720401532', '1234', 'new profile', '1', 1, now()) /* 2016-11-06 15:44:11 | /emulator/createSession.php */
+insert into profiles (MSISDN, password, names, network_id, profileStatus, dateCreated) values
+			('0720401532', '1234', 'new profile', '1', 1, now()) /* 2016-11-06 15:46:12 | /emulator/createSession.php */
+insert into profiles (MSISDN, password, names, network_id, profileStatus, dateCreated) values
+			('0720401532', '1234', 'new profile', '1', 1, now()) /* 2016-11-06 15:47:31 | /emulator/createSession.php */
+insert into profiles (MSISDN, password, names, network_id, profileStatus, dateCreated) values
+			('0720401532', '1234', 'new profile', '1', 1, now()) /* 2016-11-06 16:01:50 | /emulator/createSession.php */
+insert into profiles (MSISDN, password, names, network_id, profileStatus, dateCreated) values
+			('0720401532', '1234', 'new profile', '1', 1, now()) /* 2016-11-06 16:02:34 | /emulator/createSession.php */
+insert into profiles (MSISDN, password, names, network_id, profileStatus, dateCreated) values
+			('0720401532', '1234', 'new profile', '1', 1, now()) /* 2016-11-06 16:05:04 | /emulator/createSession.php */
+insert into profiles (MSISDN, password, names, network_id, profileStatus, dateCreated) values
+			('0720401532', '1234', 'new profile', '1', 1, now()) /* 2016-11-06 16:05:56 | /emulator/createSession.php */
+insert into profiles (MSISDN, password, names, network_id, profileStatus, dateCreated) values
+			('0720401532', NULL, 'new profile', 'Default', 1, now()) /* 2016-11-06 16:06:21 | /emulator/createSession.php */
+insert into profiles (MSISDN, password, names, network_id, profileStatus, dateCreated) values
+			('0720401532', '1234', 'new profile', '1', 1, now()) /* 2016-11-06 16:06:50 | /emulator/createSession.php */
+insert into profiles (MSISDN, password, names, network_id, profileStatus, dateCreated) values
+			('1', NULL, 'new profile', 'Default', 1, now()) /* 2016-11-06 16:08:34 | /emulator/createSession.php */
+insert into profiles (MSISDN, password, names, network_id, profileStatus, dateCreated) values
+			('1', '1234', 'new profile', 'Default', 1, now()) /* 2016-11-06 16:08:42 | /emulator/createSession.php */
+insert into profiles (MSISDN, password, names, network_id, profileStatus, dateCreated) values
+			('1', NULL, 'new profile', 'Default', 1, now()) /* 2016-11-06 16:08:59 | /emulator/createSession.php */
+insert into profiles (MSISDN, password, names, network_id, profileStatus, dateCreated) values
+			('1', NULL, 'new profile', 'Default', 1, now()) /* 2016-11-06 16:09:38 | /emulator/createSession.php */
+insert into profiles (MSISDN, password, names, network_id, profileStatus, dateCreated) values
+			('1', '1234', 'new profile', 'Default', 1, now()) /* 2016-11-06 16:09:45 | /emulator/createSession.php */
+insert into profiles (MSISDN, password, names, network_id, profileStatus, dateCreated) values
+			('1', NULL, 'new profile', 'Default', 1, now()) /* 2016-11-06 16:10:51 | /emulator/createSession.php */
+insert into profiles (MSISDN, password, names, network_id, profileStatus, dateCreated) values
+			('', NULL, 'new profile', 'Default', 1, now()) /* 2016-11-06 16:11:38 | /emulator/createSession.php */
+insert into profiles (MSISDN, password, names, network_id, profileStatus, dateCreated) values
+			('', NULL, 'new profile', 'Default', 1, now()) /* 2016-11-06 16:11:41 | /emulator/createSession.php */
+insert into profiles (MSISDN, password, names, network_id, profileStatus, dateCreated) values
+			('', NULL, 'new profile', 'Default', 1, now()) /* 2016-11-06 16:12:13 | /emulator/createSession.php */
+insert into profiles (MSISDN, password, names, network_id, profileStatus, dateCreated) values
+			('', NULL, 'new profile', 'Default', 1, now()) /* 2016-11-06 16:12:16 | /emulator/createSession.php */
+insert into profiles (MSISDN, password, names, network_id, profileStatus, dateCreated) values
+			('', '1234', 'new profile', '1', 1, now()) /* 2016-11-06 16:13:00 | /emulator/createSession.php */
+insert into profiles (MSISDN, password, names, network_id, profileStatus, dateCreated) values
+			('0720401532', '1234', 'new profile', '1', 1, now()) /* 2016-11-06 16:13:38 | /emulator/createSession.php */
+insert into profiles (MSISDN, password, names, network_id, profileStatus, dateCreated) values
+			('0720401532', '1234', 'new profile', '1', 1, now()) /* 2016-11-06 16:19:21 | /emulator/createSession.php */
+insert into profiles (MSISDN, password, names, network_id, profileStatus, dateCreated) values
+			('0720401532', '1234', 'new profile', '1', 1, now()) /* 2016-11-06 16:20:06 | /emulator/createSession.php */

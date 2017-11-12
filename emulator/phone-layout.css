@@ -1,0 +1,155 @@
+body {
+	background: #fff;
+}
+a {
+	text-decoration:none;
+	color: #eef;
+}
+a:link {
+	text-decoration:none;
+}
+a:visited {
+	text-decoration:none;
+}
+a:active {
+	text-decoration:none;
+}
+a:hover {
+	text-decoration:none;
+}
+img {
+	border: 0px;
+}
+#parent-page {
+	font-family: arial;
+	font-size: 12px;
+	width:1000px;
+	height:600px;
+	margin: auto;
+	background: #FFF;
+	border: solid 2px #fff;
+}
+#main-phone {
+	float:left;
+	background: #FFF;
+	background-image: url(images/Samsung-Galaxy-Note-312-blank.png);
+	background-repeat: no-repeat;
+	overflow:hidden;
+	width:313px;
+	height:100%;
+}
+#main-screen {
+	width:266px;
+	height:421px;
+	padding:0px;
+	margin:0px;
+	margin-left:23px;
+	margin-top:67px;
+	overflow:hidden;
+	color:#FFF;
+	font-weight: bold;
+}
+#notification-bar {
+	width:100%;
+	height:17px;
+	padding:0px;
+	margin:0px;
+	color:#EEF;
+	font-size: 11px;
+	background-image: url(images/Samsung-notifications-bar.png);
+	background-repeat: no-repeat;
+	overflow:hidden;
+}
+#notice_operator {
+	padding-left:3px;
+	padding-top:2px;
+}
+#notice_message {
+	padding-top:2px;
+}
+#notice_time {
+	padding-top:2px;
+}
+#display-screen {
+	width:100%;
+	height:404px;
+	padding:0px;
+	margin:0px;
+	overflow:hidden;
+	background:#000;
+}
+#phones-buttons {
+	width: 266px;
+	height: 40px;
+	margin-left:23px;
+	margin-top:5px;
+	padding: 0px;
+	margin-right:0px;
+	overflow:hidden;
+}
+#debug-div {
+	margin:0;
+	padding:2px;
+	float:left;
+	overflow:auto;
+	height:596px;
+	width:680px;
+	background:#eef;
+	color:#090;
+	font-family: 'Courier New', Courier, monospace;
+	font-size: 11px;
+	border: solid 1px #000;
+}
+.phones-button {
+	float: left;
+	margin:2px;
+}
+.typeNumber {
+	width:90%;
+	text-align:right;
+	font-size:19px;
+	border:solid 0px #ccc;
+	font-weight:bold;
+}
+.typeText {
+	width:90%;
+	text-align:left;
+	font-size:19px;
+	border:solid 2px #ccc;
+	font-weight:bold;
+}
+.screen-icons {
+	float: left;
+	margin:0px;
+	margin-right:1px;
+}
+.dial-buttons {
+	float: left; 
+	margin: 0px;
+	margin-top:6px;
+	margin-left: 9px;
+	margin-right: -1px;
+}
+.sms-list-new {
+	padding:2px;
+	padding-bottom:5px;
+	padding-left:3px;
+	color:#607;
+	border-bottom:#ccc solid 5px;
+	background:#ddd;
+	font-size:12px;
+	font-weight:normal;
+}
+.sms-list-read {
+	padding:2px;
+	padding-bottom:5px;
+	padding-left:3px;
+	color:#000;
+	border-bottom:#ccc solid 5px;
+	background:#fff;
+	font-size:12px;
+	font-weight:normal;
+}
+.sms-list div {
+	margin:1px;
+}
